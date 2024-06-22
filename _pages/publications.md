@@ -14,6 +14,6 @@ author_profile: true
         <strong>Interpretable risk assessment methods for medical image processing via dynamic dilated convolution and a knowledge base on location relations</strong>
     </div>
     <div>
-        <strong>Interpretable risk assessment methods, for medical image processing via dynamic dilated convolution and a knowledge base on location relations</strong>
+        Yunan Shi, Junxian Bao, Keyang Cheng, Weijie Shen, <strong>Jingfeng Tang</strong>, Yongzhao Zhan
     </div>
 </div>
