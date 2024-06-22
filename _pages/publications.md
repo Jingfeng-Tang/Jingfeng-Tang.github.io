@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-**2024**
+# **2024**
 
 
 <div style="display: flex;">
