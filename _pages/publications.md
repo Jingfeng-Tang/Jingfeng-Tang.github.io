@@ -13,4 +13,7 @@ author_profile: true
     <div>
         <strong>Interpretable risk assessment methods for medical image processing via dynamic dilated convolution and a knowledge base on location relations</strong>
     </div>
+    <div>
+        <strong>Interpretable risk assessment methods, for medical image processing via dynamic dilated convolution and a knowledge base on location relations</strong>
+    </div>
 </div>
