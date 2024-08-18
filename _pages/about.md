@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am now study in School of Computer Science and Communication Engineering, Jiangsu University.
+I am now a second-year postgraduate student in the School of Computer Science and Communication Engineering, Jiangsu University.
 My research interest includes computer vision and weakly supervised learning.
 
 
@@ -68,4 +68,4 @@ Yunan Shi, Junxian Bao, Keyang Cheng, Weijie Shen, **Jingfeng Tang**, Yongzhao Z
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo >dapibus sit amet. -->
 
 # 💻 Work
-- *2020.04 - 2021.02*, Changzhou Mingseal Robot Technology Co., Ltd.
+- *2020.04 - 2021.02*, Software Engineer, Changzhou Mingseal Robot Technology Co., Ltd.
