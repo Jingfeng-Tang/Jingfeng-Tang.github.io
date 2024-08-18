@@ -63,6 +63,7 @@ Yunan Shi, Junxian Bao, Keyang Cheng, Weijie Shen, **Jingfeng Tang**, Yongzhao Z
 
 
 # 🎖 Honors and Awards
+- *2024.07* ChinaMM 2024 最佳英文论文候选（Top2）
 - *2023.10* 江苏大学研究生学业奖学金二等奖 
 - *2021.09* 2020届校本科优秀毕业论文（设计）
 - *2019.12* 全国大学英语六级考试（493分）
