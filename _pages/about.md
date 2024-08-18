@@ -17,8 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am now study in School of Computer Science and Communication Engineering<a href='https://cs.ujs.edu.cn/'>， JiangSu University<a href='https://www.ujs.edu.cn/'>.
-
+I am now study in School of Computer Science and Communication Engineering, JiangSu University.
 My research interest includes computer vision and weakly supervised learning.
 
 
@@ -32,7 +31,7 @@ My research interest includes computer vision and weakly supervised learning.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2024</div><img src='images/tcsvt_2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Cross-block Sparse Class Token Contrast for Weakly Supervised Semantic Segmentation](https://ieeexplore.ieee.org/document/10634191)
+[Cross-block Sparse Class Token Contrast for Weakly Supervised Semantic Segmentation](https://ieeexplore.ieee.org/document/10634191) IEEE Transactions on Circuits and Systems for Video Technology
 
 Keyang Cheng, **Jingfeng Tang**, Hongjian Gu, Hao Wan, Maozhen Li
 
@@ -43,7 +42,7 @@ Keyang Cheng, **Jingfeng Tang**, Hongjian Gu, Hao Wan, Maozhen Li
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CAI 2023</div><img src='images/cai_2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Interpretable risk assessment methods for medical image processing via dynamic dilated convolution and a knowledge base on location relations](https://www.cai.sk/ojs/index.php/cai/article/view/2024_2_438)
+[Interpretable risk assessment methods for medical image processing via dynamic dilated convolution and a knowledge base on location relations](https://www.cai.sk/ojs/index.php/cai/article/view/2024_2_438) Computing and Informatics
 
 Yunan Shi, Junxian Bao, Keyang Cheng, Weijie Shen, **Jingfeng Tang**, Yongzhao Zhan
 
@@ -56,12 +55,11 @@ Yunan Shi, Junxian Bao, Keyang Cheng, Weijie Shen, **Jingfeng Tang**, Yongzhao Z
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.09 - now, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2016.09 - 2020.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
