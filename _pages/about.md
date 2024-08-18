@@ -22,9 +22,9 @@ My research interest includes computer vision and weakly supervised learning.
 
 
 # 🔥 News
-- *2024.08*: &nbsp;🎉🎉 One paper accepted by TCSVT. 
-- *2024.06*: &nbsp;🎉🎉 Two paper accepted by ChinaMM 2024.
-- *2023.11*: &nbsp;🎉🎉 One paper accepted by CAI. 
+- *2024.08*: &nbsp;🎉 One paper accepted by TCSVT. 
+- *2024.06*: &nbsp;🎉 Two paper accepted by ChinaMM 2024.
+- *2023.11*: &nbsp;🎉 One paper accepted by CAI. 
 
 # 📝 Publications 
 
@@ -40,6 +40,14 @@ Keyang Cheng, **Jingfeng Tang**, Hongjian Gu, Hao Wan, Maozhen Li
 </div>
 </div>
 
+[xxx for Weakly Supervised Semantic Segmentation], Keyang Cheng, **Jingfeng Tang**, Liutao Wei, Yunan Shi, Yongzhao Zhan *Accepted by ChinaMM 2024, the Journal version is under review by Journal of Visual Communication and Image Representation*
+</div>
+</div>
+
+[xxx Vision-Language Pre-Trained Model], Keyang Cheng, Liutao Wei, **Jingfeng Tang**, Yunan Shi, Yongzhao Zhan *Accepted by ChinaMM 2024, the Journal version is under review by Multimedia Systems*
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CAI 2023</div><img src='images/cai_2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -51,6 +59,8 @@ Yunan Shi, Junxian Bao, Keyang Cheng, Weijie Shen, **Jingfeng Tang**, Yongzhao Z
 <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 </div>
 </div>
+
+
 
 # 🎖 Honors and Awards
 - *2023.10* 江苏大学研究生学业奖学金二等奖 
