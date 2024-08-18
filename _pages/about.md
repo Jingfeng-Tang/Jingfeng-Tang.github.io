@@ -32,29 +32,29 @@ My research interest includes computer vision and weakly supervised learning.
 <div class='paper-box-text' markdown="1">
 
 [Cross-block Sparse Class Token Contrast for Weakly Supervised Semantic Segmentation](https://ieeexplore.ieee.org/document/10634191)<br> 
+Keyang Cheng, **Jingfeng Tang**, Hongjian Gu, Hao Wan, Maozhen Li<br>
 *IEEE Transactions on Circuits and Systems for Video Technology*
-
-Keyang Cheng, **Jingfeng Tang**, Hongjian Gu, Hao Wan, Maozhen Li
 
 [**Code**](https://github.com/Jingfeng-Tang/CB-SCTC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 </div>
 </div>
 
-[xxx for Weakly Supervised Semantic Segmentation], Keyang Cheng, **Jingfeng Tang**, Liutao Wei, Yunan Shi, Yongzhao Zhan *Accepted by ChinaMM 2024, the Journal version is under review by Journal of Visual Communication and Image Representation*
-</div>
-</div>
+**xxx for Weakly Supervised Semantic Segmentation**<br> 
+Keyang Cheng, **Jingfeng Tang**, Liutao Wei, Yunan Shi, Yongzhao Zhan<br>
+*Accepted by ChinaMM 2024, the Journal version is under review by Journal of Visual Communication and Image Representation*<br>
 
-[xxx Vision-Language Pre-Trained Model], Keyang Cheng, Liutao Wei, **Jingfeng Tang**, Yunan Shi, Yongzhao Zhan *Accepted by ChinaMM 2024, the Journal version is under review by Multimedia Systems*
-</div>
-</div>
+
+**xxx Vision-Language Pre-Trained Model**<br>
+Keyang Cheng, Liutao Wei, **Jingfeng Tang**, Yunan Shi, Yongzhao Zhan<br> 
+*Accepted by ChinaMM 2024, the Journal version is under review by Multimedia Systems*<br>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CAI 2023</div><img src='images/cai_2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Interpretable risk assessment methods for medical image processing via dynamic dilated convolution and a knowledge base on location relations](https://www.cai.sk/ojs/index.php/cai/article/view/2024_2_438)<br> 
-*Computing and Informatics*
-
-Yunan Shi, Junxian Bao, Keyang Cheng, Weijie Shen, **Jingfeng Tang**, Yongzhao Zhan
+Yunan Shi, Junxian Bao, Keyang Cheng, Weijie Shen, **Jingfeng Tang**, Yongzhao Zhan<br> 
+*Computing and Informatics*<br> 
 
 <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 </div>
