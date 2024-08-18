@@ -40,7 +40,7 @@ Keyang Cheng, **Jingfeng Tang**, Hongjian Gu, Hao Wan, Maozhen Li
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CAI 2023</div><img src='images/cai_2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CAI 2023</div><img src='images/cai_2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Interpretable risk assessment methods for medical image processing via dynamic dilated convolution and a knowledge base on location relations](https://www.cai.sk/ojs/index.php/cai/article/view/2024_2_438)
