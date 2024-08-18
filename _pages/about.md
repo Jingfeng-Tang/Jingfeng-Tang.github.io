@@ -64,8 +64,8 @@ Yunan Shi, Junxian Bao, Keyang Cheng, Weijie Shen, **Jingfeng Tang**, Yongzhao Z
 - *2022.09 - now*, M.S. in School of Computer Science and Communication Engineering, Jiangsu University.
 - *2016.09 - 2020.06*, B.S. in School of Computer Science and Technology, Huaiyin Normal University.
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo >dapibus sit amet. 
+<!--# 💬 Invited Talks
+- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo >dapibus sit amet. -->
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 💻 Work
+- *2020.04 - 2021.02*, Changzhou Mingseal Robot Technology Co., Ltd.
