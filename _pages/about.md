@@ -77,5 +77,5 @@ Yunan Shi, Junxian Bao, Keyang Cheng, Weijie Shen, **Jingfeng Tang**, Yongzhao Z
 <!--# 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo >dapibus sit amet. -->
 
-# 💻 Work
+# 💻 Works
 - *2020.04 - 2021.02*, Software Engineer, Changzhou Mingseal Robot Technology Co., Ltd.
