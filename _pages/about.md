@@ -74,8 +74,8 @@ Yunan Shi, Junxian Bao, Keyang Cheng, Weijie Shen, **Jingfeng Tang**, Yongzhao Z
 - *2018.04* 淮阴师范学院三等奖学金
 
 # 📖 Educations
-- *2022.09 - now*, M.S. in School of Computer Science and Communication Engineering, Jiangsu University.
-- *2016.09 - 2020.06*, B.S. in School of Computer Science and Technology, Huaiyin Normal University.
+- *2022.09 - now*, Master, School of Computer Science and Communication Engineering, Jiangsu University, Zhenjiang.
+- *2016.09 - 2020.06*, Undergraduate, School of Computer Science and Technology, Huaiyin Normal University, Huai’an.
 
 <!--# 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo >dapibus sit amet. -->
