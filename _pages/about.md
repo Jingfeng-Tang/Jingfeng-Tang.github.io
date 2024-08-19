@@ -22,9 +22,9 @@ My research interest includes computer vision and weakly supervised learning.
 
 
 # 🔥 News
-- *2024.08*: &nbsp;🎉 One paper accepted by TCSVT. 
-- *2024.06*: &nbsp;🎉 Two paper accepted by ChinaMM 2024.
-- *2023.11*: &nbsp;🎉 One paper accepted by CAI. 
+- *2024.08*: &nbsp;🎉 One paper is accepted by TCSVT. 
+- *2024.06*: &nbsp;🎉 Two papers are accepted by ChinaMM 2024.
+- *2023.11*: &nbsp;🎉 One paper is accepted by CAI. 
 
 # 📝 Publications 
 
