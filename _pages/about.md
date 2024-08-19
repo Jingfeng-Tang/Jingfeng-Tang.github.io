@@ -38,7 +38,7 @@ Keyang Cheng, **Jingfeng Tang**, Hongjian Gu, Hao Wan, Maozhen Li<br>
 [**Code**](https://github.com/Jingfeng-Tang/CB-SCTC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 </div>
 </div>
-
+<span style="color:rgb(34,75,141)">这里的文字是红色的</span>
 <font color=#224B8D>xxx for Weakly Supervised Semantic Segmentation</font>
 Keyang Cheng, **Jingfeng Tang**, Liutao Wei, Yunan Shi, Yongzhao Zhan<br>
 *Accepted by ChinaMM 2024, the Journal version is under review by Journal of Visual Communication and Image Representation*<br>
