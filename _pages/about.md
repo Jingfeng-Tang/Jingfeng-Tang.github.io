@@ -43,7 +43,7 @@ Keyang Cheng, **Jingfeng Tang**, Hongjian Gu, Hao Wan, Maozhen Li<br>
 Keyang Cheng, **Jingfeng Tang**, Liutao Wei, Yunan Shi, Yongzhao Zhan<br>
 *Accepted by ChinaMM 2024, the Journal version is under review by Journal of Visual Communication and Image Representation*<br>
 
-**<font color=#‘224B8D’>xxx Vision-Language Pre-Trained Model</font>**<br> 
+**<font color=Navy>xxx Vision-Language Pre-Trained Model</font>**<br> 
 Keyang Cheng, Liutao Wei, **Jingfeng Tang**, Yunan Shi, Yongzhao Zhan<br> 
 *Accepted by ChinaMM 2024, the Journal version is under review by Multimedia Systems*<br>
 
