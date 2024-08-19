@@ -39,11 +39,11 @@ Keyang Cheng, **Jingfeng Tang**, Hongjian Gu, Hao Wan, Maozhen Li<br>
 </div>
 </div>
 
-<font color=Navy>xxx for Weakly Supervised Semantic Segmentation</font>
+<font color=#224B8D>xxx for Weakly Supervised Semantic Segmentation</font>
 Keyang Cheng, **Jingfeng Tang**, Liutao Wei, Yunan Shi, Yongzhao Zhan<br>
 *Accepted by ChinaMM 2024, the Journal version is under review by Journal of Visual Communication and Image Representation*<br>
 
-<font color=Navy>xxx Vision-Language Pre-Trained Model</font>
+<font color=#8470FF>xxx Vision-Language Pre-Trained Model</font>
 Keyang Cheng, Liutao Wei, **Jingfeng Tang**, Yunan Shi, Yongzhao Zhan<br> 
 *Accepted by ChinaMM 2024, the Journal version is under review by Multimedia Systems*<br>
 
