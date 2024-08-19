@@ -42,6 +42,7 @@ Keyang Cheng, **Jingfeng Tang**, Hongjian Gu, Hao Wan, Maozhen Li<br>
 <code style="background-color: rgb(0, 54, 159); color: white;">ChinaMM 2024</code>  <span style="color:rgb(34,75,141)">xxx for Weakly Supervised Semantic Segmentation</span><br>
 Keyang Cheng, **Jingfeng Tang**, Liutao Wei, Yunan Shi, Yongzhao Zhan<br>
 *Accepted by ChinaMM 2024, the Journal version is under review by Journal of Visual Communication and Image Representation*<br>
+*ChinaMM 2024 Best English Paper Candidates (Top2)*<br>
 
 
 <code style="background-color: rgb(0, 54, 159); color: white;">ChinaMM 2024</code>  <span style="color:rgb(34,75,141)">xxx Vision-Language Pre-Trained Model</span><br>
