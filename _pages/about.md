@@ -39,7 +39,7 @@ Keyang Cheng, **Jingfeng Tang**, Hongjian Gu, Hao Wan, Maozhen Li<br>
 </div>
 </div>
 
-**xxx for Weakly Supervised Semantic Segmentation**<br> 
+**<font color=red>xxx for Weakly Supervised Semantic Segmentation</font>**<br> 
 Keyang Cheng, **Jingfeng Tang**, Liutao Wei, Yunan Shi, Yongzhao Zhan<br>
 *Accepted by ChinaMM 2024, the Journal version is under review by Journal of Visual Communication and Image Representation*<br>
 
