@@ -84,3 +84,4 @@ Yunan Shi, Junxian Bao, Keyang Cheng, Weijie Shen, **Jingfeng Tang**, Yongzhao Z
 
 # 💻 Works
 - *2020.04 - 2021.02*, Software Engineer, Changzhou Mingseal Robot Technology Co., Ltd.
+- I reinvented a wheel, haha! [serial port communication tool](https://github.com/Jingfeng-Tang/ComMonitor)
