@@ -28,12 +28,12 @@ My research interest includes computer vision and weakly supervised learning.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT</div><img src='images/tcsvt_2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TCSVT</div><img src='images/tcsvt_2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Cross-block Sparse Class Token Contrast for Weakly Supervised Semantic Segmentation](https://ieeexplore.ieee.org/document/10634191)<br> 
 Keyang Cheng, **Jingfeng Tang**, Hongjian Gu, Hao Wan, Maozhen Li<br>
-*IEEE Transactions on Circuits and Systems for Video Technology*
+*IEEE Transactions on Circuits and Systems for Video Technology(TCSVT)*
 
 [**Code**](https://github.com/Jingfeng-Tang/CB-SCTC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 </div>
@@ -56,7 +56,7 @@ Keyang Cheng, Liutao Wei, **Jingfeng Tang**, Yunan Shi, Yongzhao Zhan<br>
 
 [Interpretable risk assessment methods for medical image processing via dynamic dilated convolution and a knowledge base on location relations](https://www.cai.sk/ojs/index.php/cai/article/view/2024_2_438)<br> 
 Yunan Shi, Junxian Bao, Keyang Cheng, Weijie Shen, **Jingfeng Tang**, Yongzhao Zhan<br> 
-*Computing and Informatics*<br> 
+*Computing and Informatics(CAI)*<br> 
 
 <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 </div>
