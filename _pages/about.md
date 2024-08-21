@@ -83,5 +83,5 @@ Yunan Shi, Junxian Bao, Keyang Cheng, Weijie Shen, **Jingfeng Tang**, Yongzhao Z
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo >dapibus sit amet. -->
 
 # 💻 Works
-- *2020.04 - 2021.02*, Software Engineer, Changzhou Mingseal Robot Technology Co., Ltd.
-- I reinvented a wheel, haha! [serial port communication tool](https://github.com/Jingfeng-Tang/ComMonitor)
+- *2020.04 - 2021.02*, Software Engineer, Changzhou Mingseal Robot Technology Co., Ltd..
+- *2022.05 - 2022.05*, I reinvented a wheel, haha! [serial port communication tool](https://github.com/Jingfeng-Tang/ComMonitor).
