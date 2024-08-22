@@ -17,3 +17,6 @@ main:
 
   - title: "Works"
     url: "/#-works"
+
+  - title: "Projects"
+    url: "/#-projects"
