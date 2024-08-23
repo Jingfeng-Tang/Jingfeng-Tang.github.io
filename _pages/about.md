@@ -17,8 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a second-year postgraduate student in the School of Computer Science and Communication Engineering, Jiangsu University.
-My research interest includes computer vision and weakly supervised learning.
+I am currently a second-year postgraduate student at the School of Computer Science and Communication Engineering, Jiangsu University.
+My research interests include computer vision and weakly supervised learning.
 
 
 # 🔥 News
