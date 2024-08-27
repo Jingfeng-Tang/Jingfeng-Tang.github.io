@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a second-year postgraduate student at the School of Computer Science and Communication Engineering, [Jiangsu University](https://www.ujs.edu.cn/), advised by [Keyang Cheng](https://cs.ujs.edu.cn/info/1508/27667.htm).
+I am currently a second-year postgraduate student at the School of Computer Science and Communication Engineering, [Jiangsu University](https://www.ujs.edu.cn/), advised by [Professor Keyang Cheng](https://cs.ujs.edu.cn/info/1508/27667.htm).
 My research interests include computer vision and weakly supervised learning.
 
 
