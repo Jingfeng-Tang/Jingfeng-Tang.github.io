@@ -27,12 +27,12 @@ My research interests include computer vision and weakly supervised learning.
 - *2023.11*: &nbsp;🎉 One paper is accepted by CAI. 
 
 # 📝 Publications 
-
+* denotes corresponding author.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TCSVT</div><img src='images/tcsvt_2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Cross-block Sparse Class Token Contrast for Weakly Supervised Semantic Segmentation](https://ieeexplore.ieee.org/document/10634191)<br> 
-Keyang Cheng, **Jingfeng Tang**, Hongjian Gu, Hao Wan, Maozhen Li<br>
+Keyang Cheng*, **Jingfeng Tang**, Hongjian Gu, Hao Wan, Maozhen Li<br>
 *IEEE Transactions on Circuits and Systems for Video Technology(TCSVT)*
 
 [**Code**](https://github.com/Jingfeng-Tang/CB-SCTC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
@@ -40,13 +40,13 @@ Keyang Cheng, **Jingfeng Tang**, Hongjian Gu, Hao Wan, Maozhen Li<br>
 </div>
 
 <code style="background-color: rgb(0, 54, 159); color: white;">ChinaMM 2024</code>  <span style="color:rgb(34,75,141)">xxx for Weakly Supervised Semantic Segmentation</span><br>
-Keyang Cheng, **Jingfeng Tang**, Liutao Wei, Yunan Shi, Yongzhao Zhan<br>
+Keyang Cheng*, **Jingfeng Tang**, Liutao Wei, Yunan Shi, Yongzhao Zhan<br>
 *Accepted by ChinaMM 2024, the Journal version is under review by Journal of Visual Communication and Image Representation*<br>
 *ChinaMM 2024 Best English Paper Candidates (Top2)*<br>
 
 
 <code style="background-color: rgb(0, 54, 159); color: white;">ChinaMM 2024</code>  <span style="color:rgb(34,75,141)">xxx Vision-Language Pre-Trained Model</span><br>
-Keyang Cheng, Liutao Wei, **Jingfeng Tang**, Yunan Shi, Yongzhao Zhan<br> 
+Keyang Cheng*, Liutao Wei, **Jingfeng Tang**, Yunan Shi, Yongzhao Zhan<br> 
 *Accepted by ChinaMM 2024, the Journal version is under review by Multimedia Systems*<br>
 
 
@@ -55,7 +55,7 @@ Keyang Cheng, Liutao Wei, **Jingfeng Tang**, Yunan Shi, Yongzhao Zhan<br>
 <div class='paper-box-text' markdown="1">
 
 [Interpretable risk assessment methods for medical image processing via dynamic dilated convolution and a knowledge base on location relations](https://www.cai.sk/ojs/index.php/cai/article/view/2024_2_438)<br> 
-Yunan Shi, Junxian Bao, Keyang Cheng, Weijie Shen, **Jingfeng Tang**, Yongzhao Zhan<br> 
+Yunan Shi, Junxian Bao, Keyang Cheng*, Weijie Shen, **Jingfeng Tang**, Yongzhao Zhan<br> 
 *Computing and Informatics(CAI)*<br> 
 
 <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
