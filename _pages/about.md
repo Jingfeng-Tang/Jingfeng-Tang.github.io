@@ -27,7 +27,7 @@ My research interests include computer vision and weakly supervised learning.
 - *2023.11*: &nbsp;🎉 One paper is accepted by CAI. 
 
 # 📝 Publications 
-* denotes corresponding author.
+\* denotes corresponding author.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TCSVT</div><img src='images/tcsvt_2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
