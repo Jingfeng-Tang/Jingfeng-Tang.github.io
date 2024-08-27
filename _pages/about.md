@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a second-year postgraduate student at the School of Computer Science and Communication Engineering, Jiangsu University.
+I am currently a second-year postgraduate student at the School of Computer Science and Communication Engineering, Jiangsu University, advised by Keyang Cheng.
 My research interests include computer vision and weakly supervised learning.
 
 
