@@ -28,6 +28,9 @@ My research interests include computer vision and weakly supervised learning.
 
 # 📝 Publications 
 \* denotes corresponding author.
+
+# 2024
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TCSVT</div><img src='images/tcsvt_2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -49,7 +52,7 @@ Keyang Cheng\*, **Jingfeng Tang**, Liutao Wei, Yunan Shi, Yongzhao Zhan<br>
 Keyang Cheng\*, Liutao Wei, **Jingfeng Tang**, Yunan Shi, Yongzhao Zhan<br> 
 *Accepted by ChinaMM 2024, the Journal version is under review by Multimedia Systems*<br>
 
-
+# 2023
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CAI</div><img src='images/cai_2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
