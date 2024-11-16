@@ -70,7 +70,7 @@ Yunan Shi, Junxian Bao, Keyang Cheng\*, Weijie Shen, **Jingfeng Tang**, Yongzhao
 
 # 🎖 Honors and Awards
 - *2024.11* 研究生国家奖学金
-- *2024.11* 江苏大学“博学”校长奖章
+- *2024.11* 江苏大学“博学”校长奖章(Top 0.19%)
 - *2024.11* 江苏大学校优秀研究生
 - *2024.10* 江苏大学研究生学业奖学金一等奖
 - *2023.10* 江苏大学研究生学业奖学金二等奖 
