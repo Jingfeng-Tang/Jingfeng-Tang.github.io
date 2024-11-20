@@ -47,7 +47,8 @@ Keyang Cheng\*, **Jingfeng Tang**, Liutao Wei, Yunan Shi, Yongzhao Zhan<br>
 *Accepted by ChinaMM 2024, the Journal version is under review by Journal of Visual Communication and Image Representation*<br>
 *ChinaMM 2024 Best English Paper Candidates*<br>  
 
-
+#### 👄 Talkingface Generation
+- ``ICLR 2024`` [Real3D-Portrait: One-shot Realistic 3D Talking Portrait Synthesis](https://openreview.net/forum?id=7ERQPyR2eb), Zhenhui Ye, Tianyun Zhong, **Yi Ren**, et al
 
 <code style="background-color: rgb(0, 54, 159); color: white;">ChinaMM 2024</code>  <span style="color:rgb(34,75,141)">xxx Vision-Language Pre-Trained Model</span><br>
 Keyang Cheng\*, Liutao Wei, **Jingfeng Tang**, Yunan Shi, Yongzhao Zhan<br> 
