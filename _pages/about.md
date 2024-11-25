@@ -22,6 +22,7 @@ My research interests include computer vision and weakly supervised learning.
 
 
 # 🔥 News
+- *2024.11*: &nbsp;🎉 One paper is accepted by Multimedia Systems.
 - *2024.08*: &nbsp;🎉 One paper is accepted by IEEE TCSVT. 
 - *2024.06*: &nbsp;🎉 Two papers are accepted by ChinaMM 2024.
 - *2023.11*: &nbsp;🎉 One paper is accepted by CAI. 
@@ -57,10 +58,6 @@ Keyang Cheng\*, Liutao Wei, **Jingfeng Tang**, Yongzhao Zhan<br>
 Keyang Cheng\*, **Jingfeng Tang**, Liutao Wei, Yunan Shi, Yongzhao Zhan<br>
 *Accepted by ChinaMM 2024, the Journal version is under review by Journal of Visual Communication and Image Representation*<br>
 *ChinaMM 2024 Best English Paper Candidates*<br>  
-
-<code style="background-color: rgb(0, 54, 159); color: white;">ChinaMM 2024</code>  <span style="color:rgb(34,75,141)">xxx Vision-Language Pre-Trained Model</span><br>
-Keyang Cheng\*, Liutao Wei, **Jingfeng Tang**, Yunan Shi, Yongzhao Zhan<br> 
-*Accepted by ChinaMM 2024, the Journal version is under review by Multimedia Systems*<br>
 
 # 2023
 
