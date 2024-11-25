@@ -35,18 +35,18 @@ My research interests include computer vision and weakly supervised learning.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TCSVT</div><img src='images/tcsvt_2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Cross-block Sparse Class Token Contrast for Weakly Supervised Semantic Segmentation](https://ieeexplore.ieee.org/document/10634191)<br> 
+Cross-block Sparse Class Token Contrast for Weakly Supervised Semantic Segmentation<br> 
 Keyang Cheng\*, **Jingfeng Tang**, Hongjian Gu, Hao Wan, Maozhen Li<br>
 *IEEE Transactions on Circuits and Systems for Video Technology(TCSVT)*
 
-[**Code**](https://github.com/Jingfeng-Tang/CB-SCTC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Paper**](https://ieeexplore.ieee.org/document/10634191) [**Code**](https://github.com/Jingfeng-Tang/CB-SCTC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Multimedia Systems</div><img src='images/MultimediaSystems_2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Constraint Embedding for Prompt Tuning in Vision-Language Pre-Trained Model]<br> 
+Constraint Embedding for Prompt Tuning in Vision-Language Pre-Trained Model<br> 
 Keyang Cheng\*, Liutao Wei, **Jingfeng Tang**, Yongzhao Zhan<br>
 *Multimedia Systems*
 
