@@ -49,6 +49,7 @@ Keyang Cheng\*, **Jingfeng Tang**, Hongjian Gu, Hao Wan, Maozhen Li<br>
 Constraint Embedding for Prompt Tuning in Vision-Language Pre-Trained Model<br> 
 Keyang Cheng\*, Liutao Wei, **Jingfeng Tang**, Yongzhao Zhan<br>
 *Multimedia Systems*
+[**Paper**](https://link.springer.com/article/10.1007/s00530-024-01600-9)
 
 <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 </div>
