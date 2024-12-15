@@ -39,7 +39,7 @@ Cross-block Sparse Class Token Contrast for Weakly Supervised Semantic Segmentat
 Keyang Cheng\*, **Jingfeng Tang**, Hongjian Gu, Hao Wan, Maozhen Li<br>
 *IEEE Transactions on Circuits and Systems for Video Technology(TCSVT)*
 
-[**Paper**](https://ieeexplore.ieee.org/document/10634191) [**Code**](https://github.com/Jingfeng-Tang/CB-SCTC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[[**Paper**]](https://ieeexplore.ieee.org/document/10634191) [[**Code**]](https://github.com/Jingfeng-Tang/CB-SCTC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 </div>
 </div>
 
@@ -49,7 +49,8 @@ Keyang Cheng\*, **Jingfeng Tang**, Hongjian Gu, Hao Wan, Maozhen Li<br>
 Constraint Embedding for Prompt Tuning in Vision-Language Pre-Trained Model<br> 
 Keyang Cheng\*, Liutao Wei, **Jingfeng Tang**, Yongzhao Zhan<br>
 *Multimedia Systems*
-[**Paper**](https://link.springer.com/article/10.1007/s00530-024-01600-9)
+
+[[**Paper**]](https://link.springer.com/article/10.1007/s00530-024-01600-9)
 
 <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 </div>
@@ -65,9 +66,11 @@ Keyang Cheng\*, **Jingfeng Tang**, Liutao Wei, Yunan Shi, Yongzhao Zhan<br>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CAI</div><img src='images/cai_2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Interpretable risk assessment methods for medical image processing via dynamic dilated convolution and a knowledge base on location relations](https://www.cai.sk/ojs/index.php/cai/article/view/2024_2_438)<br> 
+[Interpretable risk assessment methods for medical image processing via dynamic dilated convolution and a knowledge base on location relations]<br> 
 Yunan Shi, Junxian Bao, Keyang Cheng\*, Weijie Shen, **Jingfeng Tang**, Yongzhao Zhan<br> 
 *Computing and Informatics(CAI)*<br> 
+
+[[**Paper**]](https://www.cai.sk/ojs/index.php/cai/article/view/2024_2_438)
 
 <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 </div>
