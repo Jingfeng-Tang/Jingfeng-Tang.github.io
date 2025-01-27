@@ -86,12 +86,7 @@ Yunan Shi, Junxian Bao, Keyang Cheng\*, Weijie Shen, **Jingfeng Tang**, Yongzhao
 - *2024.10* 江苏大学研究生学业奖学金一等奖
 - *2023.10* 江苏大学研究生学业奖学金二等奖 
 - *2020.06* 2020届校本科优秀毕业论文（设计）
-- *2019.12* 全国大学英语六级考试合格（493分）
-- *2019.05* 淮阴师范学院优秀共青团员
-- *2019.03* 淮阴师范学院三等奖学金
-- *2018.10* 淮阴师范学院三等奖学金
 - *2018.07* 2018年（第11届）中国大学生计算机设计大赛二等奖
-- *2018.04* 淮阴师范学院三等奖学金
 
 # 📖 Educations
 - *2022.09 - now*, Master, School of Computer Science and Communication Engineering, Jiangsu University, Zhenjiang.
