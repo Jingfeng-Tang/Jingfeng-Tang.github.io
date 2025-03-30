@@ -78,15 +78,15 @@ Yunan Shi, Junxian Bao, Keyang Cheng\*, Weijie Shen, **Jingfeng Tang**, Yongzhao
 
 
 
-# 🎖 Honors and Awards
-- *2024.11* 研究生国家奖学金
-- *2024.11* 江苏大学“博学”校长奖章(Top 0.19%)
-- *2024.11* 江苏大学校优秀研究生标兵
-- *2024.11* 江苏大学校优秀研究生
-- *2024.10* 江苏大学研究生学业奖学金一等奖
-- *2023.10* 江苏大学研究生学业奖学金二等奖 
-- *2020.06* 2020届校本科优秀毕业论文（设计）
-- *2018.07* 2018年（第11届）中国大学生计算机设计大赛二等奖
+# 🎖 Selected Honors and Awards
+- *2024.11* National Scholarship
+- *2024.11* Jiangsu University 'Bo Xue' President Medal(Top 0.19%)
+- *2024.11* Outstanding graduate student pacesetter of Jiangsu University
+- *2024.11* Outstanding graduate student of Jiangsu University
+- *2024.10* The First Prize Scholarship of Jiangsu University
+- *2023.10* The Second Prize Scholarship of Jiangsu University
+- *2020.06* Outstanding Undergraduate Thesis (Design)
+- *2018.07* Second Prize in the 11th Chinese Collegiate Computing Competition
 
 # 📖 Educations
 - *2022.09 - now*, Master, School of Computer Science and Communication Engineering, Jiangsu University, Zhenjiang.
