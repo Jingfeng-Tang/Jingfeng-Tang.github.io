@@ -104,5 +104,5 @@ Yunan Shi, Junxian Bao, Keyang Cheng\*, Weijie Shen, **Jingfeng Tang**, Yongzhao
 - *2022.12 - now*, I'm maintaining a collection of papers. [Awesome Papers for Weakly Supervised Semantic Segmentation](https://github.com/Jingfeng-Tang/Awesome-Papers-for-Weakly-Supervised-Semantic-Segmentation).
 - *2022.05 - 2022.05*, I reinvented a wheel for serial port communication! [serial port communication tool](https://github.com/Jingfeng-Tang/ComMonitor).
 
-## Acknowledges
+## Acknowledgments
 This home page build upon [AcadHomepage](https://github.com/RayeRen/acad-homepage.github.io), Many thanks !
