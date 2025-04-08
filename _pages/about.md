@@ -102,4 +102,7 @@ Yunan Shi, Junxian Bao, Keyang Cheng\*, Weijie Shen, **Jingfeng Tang**, Yongzhao
 - *2024.10 - now*, I'm maintaining a collection of papers. [Awesome Papers for Medical Image](https://github.com/Jingfeng-Tang/Awesome-Papers-for-Medical-Image).
 - *2024.08 - 2024.08*, Motivated by [BAS](https://arxiv.org/pdf/2309.12943v1), I designed [Image-Doodler](https://github.com/Jingfeng-Tang/Image-Doodler) to generate a mask that occludes arbitrary regions (semantic features) of the image. It can help to observe the changes in the class activation map in different masking situations. Download executable file from [Google Drive](https://drive.google.com/file/d/1hJPo0ULw1BCam8qFI9kgRg8rKyb-rKHC/view?usp=drive_link) or [Baidu Drive](https://pan.baidu.com/s/1wu4Wy8Oqo5M-JImIJSSidg?pwd=pwvw).
 - *2022.12 - now*, I'm maintaining a collection of papers. [Awesome Papers for Weakly Supervised Semantic Segmentation](https://github.com/Jingfeng-Tang/Awesome-Papers-for-Weakly-Supervised-Semantic-Segmentation).
-- *2022.05 - 2022.05*, I reinvented a wheel for serial port communication, haha! [serial port communication tool](https://github.com/Jingfeng-Tang/ComMonitor).
+- *2022.05 - 2022.05*, I reinvented a wheel for serial port communication! [serial port communication tool](https://github.com/Jingfeng-Tang/ComMonitor).
+
+## Acknowledges
+This home page build upon [AcadHomepage](https://github.com/RayeRen/acad-homepage.github.io), Many thanks !
