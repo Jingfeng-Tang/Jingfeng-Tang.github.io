@@ -21,7 +21,7 @@ redirect_from:
 I will pursue a Ph.D. in Computer Science and Technology at Northeastern University. I graduated from School of Computer Science and Communication Engineering, [Jiangsu University](https://www.ujs.edu.cn/) with a master’s degree, advised by Prof. [Keyang Cheng](https://cs.ujs.edu.cn/info/1508/27667.htm). My research interests include medical image segmentation and weakly supervised learning.
 
 # 🔥 News
-- *2025.06*: &nbsp;🎉 I have obtained a Master of Science in Engineering degree.​
+- *2025.06*: &nbsp;🎉 I have obtained a Master of Science(Engineering) degree.​
 - *2024.11*: &nbsp;🎉 One paper is accepted by Multimedia Systems.
 - *2024.08*: &nbsp;🎉 One paper is accepted by IEEE TCSVT. 
 - *2024.06*: &nbsp;🎉 Two papers are accepted by ChinaMM 2024.
