@@ -17,11 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a third-year postgraduate student at the School of Computer Science and Communication Engineering, [Jiangsu University](https://www.ujs.edu.cn/), advised by Prof. [Keyang Cheng](https://cs.ujs.edu.cn/info/1508/27667.htm).
-My research interests include computer vision and weakly supervised learning.
 
+I will pursue a Ph.D. in Computer Science and Technology at Northeastern University. I graduated from School of Computer Science and Communication Engineering, [Jiangsu University](https://www.ujs.edu.cn/) with a master’s degree, advised by Prof. [Keyang Cheng](https://cs.ujs.edu.cn/info/1508/27667.htm). My research interests include medical image segementation and weakly supervised learning.
 
 # 🔥 News
+- *2025.06*: &nbsp;🎉 I have obtained a Master of Science in Engineering degree.​
 - *2024.11*: &nbsp;🎉 One paper is accepted by Multimedia Systems.
 - *2024.08*: &nbsp;🎉 One paper is accepted by IEEE TCSVT. 
 - *2024.06*: &nbsp;🎉 Two papers are accepted by ChinaMM 2024.
@@ -79,6 +79,8 @@ Yunan Shi, Junxian Bao, Keyang Cheng\*, Weijie Shen, **Jingfeng Tang**, Yongzhao
 
 
 # 🎖 Selected Honors and Awards
+- *2025.06* Outstanding Graduate Student​
+- *2025.06* The Second Prize Scholarship of Jiangsu University
 - *2024.11* National Scholarship
 - *2024.11* Jiangsu University 'Bo Xue' President Medal(Top 0.19%)
 - *2024.11* Outstanding graduate student pacesetter of Jiangsu University
@@ -89,7 +91,7 @@ Yunan Shi, Junxian Bao, Keyang Cheng\*, Weijie Shen, **Jingfeng Tang**, Yongzhao
 - *2018.07* Second Prize in the 11th Chinese Collegiate Computing Competition
 
 # 📖 Educations
-- *2022.09 - now*, Master, School of Computer Science and Communication Engineering, Jiangsu University, Zhenjiang.
+- *2022.09 - 2025.06*, Master, School of Computer Science and Communication Engineering, Jiangsu University, Zhenjiang.
 - *2016.09 - 2020.06*, Undergraduate, School of Computer Science and Technology, Huaiyin Normal University, Huai’an.
 
 <!--# 💬 Invited Talks
