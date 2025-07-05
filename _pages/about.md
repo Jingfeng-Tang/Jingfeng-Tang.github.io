@@ -80,13 +80,9 @@ Yunan Shi, Junxian Bao, Keyang Cheng\*, Weijie Shen, **Jingfeng Tang**, Yongzhao
 
 # 🎖 Selected Honors and Awards
 - *2025.06* Outstanding Graduating Graduate Student
-- *2025.06* The Second Prize Scholarship of Jiangsu University
 - *2024.11* National Scholarship
 - *2024.11* Jiangsu University 'Bo Xue' President Medal(Top 0.19%)
 - *2024.11* Outstanding graduate student pacesetter of Jiangsu University
-- *2024.11* Outstanding graduate student of Jiangsu University
-- *2024.10* The First Prize Scholarship of Jiangsu University
-- *2023.10* The Second Prize Scholarship of Jiangsu University
 - *2020.06* Outstanding Undergraduate Thesis (Design)
 - *2018.07* Second Prize in the 11th Chinese Collegiate Computing Competition
 
