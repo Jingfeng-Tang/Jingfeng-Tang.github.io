@@ -66,7 +66,7 @@ Keyang Cheng\*, **Jingfeng Tang**, Liutao Wei, Yunan Shi, Yongzhao Zhan<br>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CAI</div><img src='images/cai_2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Interpretable risk assessment methods for medical image processing via dynamic dilated convolution and a knowledge base on location relations]<br> 
+Interpretable risk assessment methods for medical image processing via dynamic dilated convolution and a knowledge base on location relations<br> 
 Yunan Shi, Junxian Bao, Keyang Cheng\*, Weijie Shen, **Jingfeng Tang**, Yongzhao Zhan<br> 
 *Computing and Informatics(CAI)*<br> 
 
