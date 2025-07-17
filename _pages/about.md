@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-I will pursue a Ph.D. degree in Computer Science and Technology at Northeastern University. I graduated from School of Computer Science and Communication Engineering, [Jiangsu University](https://www.ujs.edu.cn/) with a master’s degree, advised by Prof. [Keyang Cheng](https://cs.ujs.edu.cn/info/1508/27667.htm). My research interests include medical image segmentation and weakly supervised learning.
+I will pursue a Ph.D. in Computer Science and Technology at Northeastern University. I graduated from School of Computer Science and Communication Engineering, [Jiangsu University](https://www.ujs.edu.cn/) with a master’s degree. My research interests include graph representation learning and weakly supervised learning.
 
 # 🔥 News
 - *2025.06*: &nbsp;🎉 I have obtained a Master of Science(Engineering) degree.​
