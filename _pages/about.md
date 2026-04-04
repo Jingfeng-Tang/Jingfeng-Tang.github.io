@@ -21,11 +21,37 @@ redirect_from:
 I will pursue a Ph.D. in Computer Science and Technology at Northeastern University. I graduated from School of Computer Science and Communication Engineering, Jiangsu University with a master’s degree. My research interests include graph representation learning and weakly supervised learning.
 
 # 🔥 News
+
+<style>
+.news-scroll {
+  max-height: 120px; 
+  overflow-y: auto; 
+  padding-right: 10px; 
+}
+
+.news-scroll::-webkit-scrollbar {
+  width: 5px;
+}
+
+.news-scroll::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+.news-scroll::-webkit-scrollbar-thumb {
+  background: #ccc; 
+  border-radius: 4px;
+}
+</style>
+
+<div class="news-scroll" markdown="1">
+
 - *2025.06*: &nbsp;🎉 I have obtained a Master of Science(Engineering) degree.​
 - *2024.11*: &nbsp;🎉 One paper is accepted by Multimedia Systems.
 - *2024.08*: &nbsp;🎉 One paper is accepted by IEEE TCSVT. 
 - *2024.06*: &nbsp;🎉 Two papers are accepted by ChinaMM 2024.
 - *2023.11*: &nbsp;🎉 One paper is accepted by CAI. 
+
+</div>
 
 # 📝 Publications 
 \* denotes corresponding author.
