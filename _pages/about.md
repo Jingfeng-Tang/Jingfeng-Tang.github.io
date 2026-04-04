@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-I will pursue a Ph.D. in Computer Science and Technology at Northeastern University. I graduated from School of Computer Science and Communication Engineering, Jiangsu University with a master’s degree. My research interests include graph representation learning and weakly supervised learning.
+I am a first-year Ph.D. student majoring in Computer Science and Technology at Northeastern University. Prior to this, I earned my Master's degree from the School of Computer Science and Communication Engineering at Jiangsu University. My primary research interests lie in brain disorder analysis and weakly supervised learning.
 
 # 🔥 News
 
