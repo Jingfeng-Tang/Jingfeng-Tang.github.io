@@ -113,6 +113,7 @@ Yunan Shi, Junxian Bao, Keyang Cheng\*, Weijie Shen, **Jingfeng Tang**, Yongzhao
 - *2018.07* Second Prize in the 11th Chinese Collegiate Computing Competition
 
 # 📖 Educations
+- *2025.09 - Present*, Ph.D. Candidate, College of Computer Science and Engineering, Northeastern University, Shenyang.
 - *2022.09 - 2025.06*, Master, School of Computer Science and Communication Engineering, Jiangsu University, Zhenjiang.
 - *2016.09 - 2020.06*, Undergraduate, School of Computer Science and Technology, Huaiyin Normal University, Huai’an.
 
