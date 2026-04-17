@@ -54,6 +54,19 @@ I am a first-year Ph.D. student majoring in Computer Science and Technology at N
 # 📝 Publications 
 \* denotes corresponding author.
 
+# 2025
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JVCIR</div><img src='images/jvcir_2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Inter-image Token Relation Learning for weakly supervised semantic segmentation<br> 
+**Jingfeng Tang**, Keyang Cheng\*, Liutao Wei, Yongzhao Zhan<br>
+*Journal of Visual Communication and Image Representation(JVCIR)*
+
+[[**Paper**]](https://www.sciencedirect.com/science/article/pii/S1047320325001907) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+</div>
+</div>
+
 # 2024
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TCSVT</div><img src='images/tcsvt_2024.png' alt="sym" width="100%"></div></div>
