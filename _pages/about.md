@@ -47,7 +47,6 @@ I am a Ph.D. student in Computer Science and Technology at Northeastern Universi
 - *2025.09*: &nbsp; One paper accepted by JVCIR.
 - *2025.06*: &nbsp; Received the M.Sc. (Eng.) degree from Jiangsu University.
 - *2024.08*: &nbsp; One paper accepted by IEEE TCSVT.
-- *2024.06*: &nbsp; One paper accepted by ChinaMM 2024.
 </div>
 
 # 📝 Publications 
